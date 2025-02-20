@@ -44,7 +44,6 @@ public class CalculatorTestJUnit {
             Tearing down after each test.
      */
 
-
     private Calculator cal;
 
     @BeforeAll
