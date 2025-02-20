@@ -27,6 +27,7 @@ public class CalculatorTest {
     지금처럼 간단한 로직인 경우는 개발자가 쉽게 결과를 예측할 수 있으나 로직의 복잡도가 높은 경우는 다르다.
     구현한 지 한달이 지난 시점에서 프로덕션 코드의 복잡한 로직을 머릿속으로 계산해 결과 값이 정상적으로 출력되는지 일일이 확인해야 한다.
      */
+
     public static void main(String[] args) {
         Calculator cal = new Calculator();
         add(cal);
